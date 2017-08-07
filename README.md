@@ -3,7 +3,7 @@ Web performance improvemnt for mobile based on google hackathon suggestions
 
 1. List of optimizations
     * DNS prefetching tags, for faster connection
-        * <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+        * < link rel=' dns-prefetch'  href= ' https://cdnjs.cloudflare.com ' >
     * Preload tag 
         * <link rel="preload" href="//image-path.svg" as="image">
     * Gzip HTML page
