@@ -1,5 +1,5 @@
-# mvc performance improvement
-Web performance improvemnt for mobile based on google hackathon suggestions
+### Mobile performance improvements
+## Web performance improvement for mobile based on google hackathon suggestions
 
 1. List of optimizations
     * DNS prefetching tags, for faster connection
